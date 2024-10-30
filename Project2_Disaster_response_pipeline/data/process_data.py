@@ -49,6 +49,9 @@ def clean_data(df):
     # Drop the original categories column because it is no longer needed
     df.drop('categories', axis=1, inplace=True)
 
+    # Delete rows in df when related column has value 2
+    df = df[df['related'] != 2]
+
     # Remove rows where the 'message' column has a NaN value
     df = df.dropna(subset=['message'])
 
