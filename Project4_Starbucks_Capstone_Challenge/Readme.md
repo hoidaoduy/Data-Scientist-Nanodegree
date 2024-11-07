@@ -36,6 +36,9 @@ To address the question, "Which model should be chosen?":
 This repository contains four files. The report on my project is titled 'Starbucks_Capstone_notebook.ipynb'.
 The data used in the project can be found in the files `portfolio.json`, `profile.json`, and `transcript.json` in `data` folder.
 
-### 4. Licensing, Authors, Acknowledgements, etc.
+### 4. Blog post
+[Blog link](https://forexinsightsweekly.blogspot.com/2024/11/in-world-of-customer-loyalty.html)
+
+### 5. Licensing, Authors, Acknowledgements, etc.
 
 The data for the project was provided by Udacity.
