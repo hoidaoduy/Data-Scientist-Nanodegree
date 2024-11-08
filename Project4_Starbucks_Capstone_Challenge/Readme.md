@@ -30,7 +30,7 @@ To answer the question, "What factors respond best to which type of offer?":
 - It was observed that the reward granted upon completing an offer (reward) and the membership duration (membership_days) are the two most critical factors influencing offer effectiveness.
 
 To address the question, "Which model should be chosen?":
-- My decision to use three separate models to predict the effectiveness of each type of offer yielded high accuracy for two models (0.79 for Deep Neural Network (DNN) and 0.7872 for Simple Neural Network), while the Random Forest model was overfitting. However, I would consider 78% to be acceptable in a business context, as informing users about offers incurs no additional cost.
+- My decision to use three separate models to predict the effectiveness of each type of offer yielded high accuracy for two models (0.782 for Deep Neural Network (DNN) and 0.782 for Simple Neural Network), while the Random Forest model was overfitting. However, I would consider 78% to be acceptable in a business context, as informing users about offers incurs no additional cost.
 
 ### 3. File Descriptions
 This repository contains four files. The report on my project is titled 'Starbucks_Capstone_notebook.ipynb'.
