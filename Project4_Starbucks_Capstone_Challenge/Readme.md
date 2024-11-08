@@ -37,7 +37,7 @@ This repository contains four files. The report on my project is titled 'Starbuc
 The data used in the project can be found in the files `portfolio.json`, `profile.json`, and `transcript.json` in `data` folder.
 
 ### 4. Blog post
-Blog: [Analyzing Customer Behavior at Starbucks for Offer Effectiveness](https://forexinsightsweekly.blogspot.com/2024/11/in-world-of-customer-loyalty.html)
+Blog: [Analyzing Customer Behavior at Starbucks for Offer Effectiveness](https://forexinsightsweekly.blogspot.com/2024/11/analyzing-customer-behavior-at.html)
 
 ### 5. Licensing, Authors, Acknowledgements, etc.
 
